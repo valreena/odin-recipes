@@ -1,1 +1,1 @@
-# odin-recipies
+Build up a simple web page using HTML
